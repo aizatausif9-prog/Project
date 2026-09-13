@@ -1,0 +1,232 @@
+{
+  "Gujranwala": {
+    "metro": {
+      "display_name": "Metro Cash & Carry",
+      "address": "GT Road, Gujranwala",
+      "prices": {
+        "atta": 165, "chawal": 235, "rice": 235, "doodh": 210, "milk": 210,
+        "ghee": 640, "cheeni": 175, "sugar": 175, "namak": 40, "salt": 40,
+        "chai patti": 470, "tea": 470, "daal": 260, "lentils": 260,
+        "cooking oil": 610, "tel": 610, "sabun": 85, "soap": 85
+      }
+    },
+    "naheed": {
+      "display_name": "Naheed Supermarket",
+      "address": "Model Town, Gujranwala",
+      "prices": {
+        "atta": 158, "chawal": 225, "rice": 225, "doodh": 205, "milk": 205,
+        "ghee": 655, "cheeni": 178, "sugar": 178, "namak": 38, "salt": 38,
+        "chai patti": 460, "tea": 460, "daal": 250, "lentils": 250,
+        "cooking oil": 600, "tel": 600, "sabun": 90, "soap": 90
+      }
+    },
+    "alfatah": {
+      "display_name": "Al-Fatah",
+      "address": "Trust Plaza, Gujranwala",
+      "prices": {
+        "atta": 162, "chawal": 240, "rice": 240, "doodh": 200, "milk": 200,
+        "ghee": 630, "cheeni": 172, "sugar": 172, "namak": 42, "salt": 42,
+        "chai patti": 475, "tea": 475, "daal": 255, "lentils": 255,
+        "cooking oil": 615, "tel": 615, "sabun": 88, "soap": 88
+      }
+    }
+  },
+
+  "Lahore": {
+    "metro": {
+      "display_name": "Metro Cash & Carry",
+      "address": "Multan Road, Lahore",
+      "prices": {
+        "atta": 168, "chawal": 238, "rice": 238, "doodh": 212, "milk": 212,
+        "ghee": 645, "cheeni": 176, "sugar": 176, "namak": 40, "salt": 40,
+        "chai patti": 472, "tea": 472, "daal": 262, "lentils": 262,
+        "cooking oil": 612, "tel": 612, "sabun": 86, "soap": 86
+      }
+    },
+    "imtiaz": {
+      "display_name": "Imtiaz Super Market",
+      "address": "Gulberg, Lahore",
+      "prices": {
+        "atta": 160, "chawal": 228, "rice": 228, "doodh": 208, "milk": 208,
+        "ghee": 650, "cheeni": 174, "sugar": 174, "namak": 39, "salt": 39,
+        "chai patti": 465, "tea": 465, "daal": 252, "lentils": 252,
+        "cooking oil": 605, "tel": 605, "sabun": 89, "soap": 89
+      }
+    },
+    "alfatah": {
+      "display_name": "Al-Fatah",
+      "address": "Gulberg, Lahore",
+      "prices": {
+        "atta": 162, "chawal": 235, "rice": 235, "doodh": 205, "milk": 205,
+        "ghee": 640, "cheeni": 172, "sugar": 172, "namak": 40, "salt": 40,
+        "chai patti": 470, "tea": 470, "daal": 255, "lentils": 255,
+        "cooking oil": 610, "tel": 610, "sabun": 87, "soap": 87
+      }
+    }
+  },
+
+  "Karachi": {
+    "metro": {
+      "display_name": "Metro Cash & Carry",
+      "address": "University Road, Karachi",
+      "prices": {
+        "atta": 170, "chawal": 242, "rice": 242, "doodh": 215, "milk": 215,
+        "ghee": 650, "cheeni": 180, "sugar": 180, "namak": 42, "salt": 42,
+        "chai patti": 480, "tea": 480, "daal": 270, "lentils": 270,
+        "cooking oil": 620, "tel": 620, "sabun": 90, "soap": 90
+      }
+    },
+    "imtiaz": {
+      "display_name": "Imtiaz Super Market",
+      "address": "Gulshan-e-Iqbal, Karachi",
+      "prices": {
+        "atta": 165, "chawal": 235, "rice": 235, "doodh": 210, "milk": 210,
+        "ghee": 660, "cheeni": 177, "sugar": 177, "namak": 40, "salt": 40,
+        "chai patti": 470, "tea": 470, "daal": 260, "lentils": 260,
+        "cooking oil": 610, "tel": 610, "sabun": 88, "soap": 88
+      }
+    },
+    "naheed": {
+      "display_name": "Naheed Supermarket",
+      "address": "Shaheed-e-Millat Road, Karachi",
+      "prices": {
+        "atta": 162, "chawal": 230, "rice": 230, "doodh": 208, "milk": 208,
+        "ghee": 665, "cheeni": 175, "sugar": 175, "namak": 39, "salt": 39,
+        "chai patti": 465, "tea": 465, "daal": 255, "lentils": 255,
+        "cooking oil": 605, "tel": 605, "sabun": 92, "soap": 92
+      }
+    }
+  },
+
+  "Islamabad": {
+    "metro": {
+      "display_name": "Metro Cash & Carry",
+      "address": "I-11/4, Islamabad",
+      "prices": {
+        "atta": 172, "chawal": 245, "rice": 245, "doodh": 218, "milk": 218,
+        "ghee": 660, "cheeni": 182, "sugar": 182, "namak": 43, "salt": 43,
+        "chai patti": 485, "tea": 485, "daal": 275, "lentils": 275,
+        "cooking oil": 625, "tel": 625, "sabun": 92, "soap": 92
+      }
+    },
+    "imtiaz": {
+      "display_name": "Imtiaz Super Market",
+      "address": "Gulberg Greens, Islamabad",
+      "prices": {
+        "atta": 168, "chawal": 238, "rice": 238, "doodh": 214, "milk": 214,
+        "ghee": 665, "cheeni": 179, "sugar": 179, "namak": 41, "salt": 41,
+        "chai patti": 475, "tea": 475, "daal": 265, "lentils": 265,
+        "cooking oil": 615, "tel": 615, "sabun": 90, "soap": 90
+      }
+    },
+    "alfatah": {
+      "display_name": "Al-Fatah",
+      "address": "F-11 Markaz, Islamabad",
+      "prices": {
+        "atta": 170, "chawal": 250, "rice": 250, "doodh": 212, "milk": 212,
+        "ghee": 650, "cheeni": 180, "sugar": 180, "namak": 44, "salt": 44,
+        "chai patti": 490, "tea": 490, "daal": 270, "lentils": 270,
+        "cooking oil": 630, "tel": 630, "sabun": 94, "soap": 94
+      }
+    }
+  },
+
+  "Rawalpindi": {
+    "metro": {
+      "display_name": "Metro Cash & Carry",
+      "address": "Islamabad Expressway, Rawalpindi",
+      "prices": {
+        "atta": 168, "chawal": 240, "rice": 240, "doodh": 212, "milk": 212,
+        "ghee": 645, "cheeni": 178, "sugar": 178, "namak": 41, "salt": 41,
+        "chai patti": 475, "tea": 475, "daal": 265, "lentils": 265,
+        "cooking oil": 615, "tel": 615, "sabun": 89, "soap": 89
+      }
+    },
+    "imtiaz": {
+      "display_name": "Imtiaz Mega",
+      "address": "GT Road, Rawalpindi",
+      "prices": {
+        "atta": 164, "chawal": 232, "rice": 232, "doodh": 208, "milk": 208,
+        "ghee": 655, "cheeni": 175, "sugar": 175, "namak": 39, "salt": 39,
+        "chai patti": 465, "tea": 465, "daal": 258, "lentils": 258,
+        "cooking oil": 605, "tel": 605, "sabun": 87, "soap": 87
+      }
+    },
+    "alfatah": {
+      "display_name": "Al-Fatah",
+      "address": "Saddar, Rawalpindi",
+      "prices": {
+        "atta": 166, "chawal": 245, "rice": 245, "doodh": 210, "milk": 210,
+        "ghee": 640, "cheeni": 177, "sugar": 177, "namak": 42, "salt": 42,
+        "chai patti": 480, "tea": 480, "daal": 262, "lentils": 262,
+        "cooking oil": 620, "tel": 620, "sabun": 91, "soap": 91
+      }
+    }
+  },
+
+  "Faisalabad": {
+    "metro": {
+      "display_name": "Metro Cash & Carry",
+      "address": "Main Sargodha Road, Faisalabad",
+      "prices": {
+        "atta": 160, "chawal": 225, "rice": 225, "doodh": 205, "milk": 205,
+        "ghee": 630, "cheeni": 170, "sugar": 170, "namak": 38, "salt": 38,
+        "chai patti": 455, "tea": 455, "daal": 250, "lentils": 250,
+        "cooking oil": 600, "tel": 600, "sabun": 84, "soap": 84
+      }
+    },
+    "imtiaz": {
+      "display_name": "Imtiaz Mega",
+      "address": "Faisalabad",
+      "prices": {
+        "atta": 157, "chawal": 220, "rice": 220, "doodh": 202, "milk": 202,
+        "ghee": 640, "cheeni": 168, "sugar": 168, "namak": 36, "salt": 36,
+        "chai patti": 448, "tea": 448, "daal": 245, "lentils": 245,
+        "cooking oil": 590, "tel": 590, "sabun": 82, "soap": 82
+      }
+    },
+    "alfatah": {
+      "display_name": "Al-Fatah",
+      "address": "Main Boulevard, Faisalabad",
+      "prices": {
+        "atta": 162, "chawal": 230, "rice": 230, "doodh": 207, "milk": 207,
+        "ghee": 635, "cheeni": 172, "sugar": 172, "namak": 39, "salt": 39,
+        "chai patti": 460, "tea": 460, "daal": 252, "lentils": 252,
+        "cooking oil": 605, "tel": 605, "sabun": 86, "soap": 86
+      }
+    }
+  },
+
+  "Multan": {
+    "metro": {
+      "display_name": "Metro Cash & Carry",
+      "address": "Bosan Road, Multan",
+      "prices": {
+        "atta": 162, "chawal": 228, "rice": 228, "doodh": 207, "milk": 207,
+        "ghee": 635, "cheeni": 172, "sugar": 172, "namak": 39, "salt": 39,
+        "chai patti": 460, "tea": 460, "daal": 252, "lentils": 252,
+        "cooking oil": 600, "tel": 600, "sabun": 85, "soap": 85
+      }
+    },
+    "imtiaz": {
+      "display_name": "Imtiaz Mega",
+      "address": "Multan",
+      "prices": {
+        "atta": 158, "chawal": 222, "rice": 222, "doodh": 204, "milk": 204,
+        "ghee": 645, "cheeni": 170, "sugar": 170, "namak": 37, "salt": 37,
+        "chai patti": 450, "tea": 450, "daal": 248, "lentils": 248,
+        "cooking oil": 595, "tel": 595, "sabun": 83, "soap": 83
+      }
+    },
+    "alfatah": {
+      "display_name": "Al-Fatah",
+      "address": "Gulgasht Colony, Multan",
+      "prices": {
+        "atta": 160, "chawal": 230, "rice": 230, "doodh": 205, "milk": 205,
+        "ghee": 630, "cheeni": 173, "sugar": 173, "namak": 40, "salt": 40,
+        "chai patti": 465, "tea": 465, "daal": 255, "lentils": 255,
+        "cooking oil": 610, "tel": 610, "sabun": 87, "soap": 87
+      }
+    }
+  }
+}
